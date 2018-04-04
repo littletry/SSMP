@@ -1,4 +1,4 @@
-package top.huangt.ssmp.common;
+package top.huangt.ssmp.common.result;
 
 /**
  * 封装json返回信息
